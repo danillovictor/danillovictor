@@ -18,6 +18,8 @@
 ### Me mande uma mensagem!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilotfm18@gmail.com)](mailto:danilotfm18@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilovgoliveira/)](https://www.linkedin.com/in/danilovgoliveira/)
+
+Obrigado por me visitar! 😄
   
 <!--
 *danillovictor/danillovictor* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
